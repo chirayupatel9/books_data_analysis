@@ -15,7 +15,6 @@
 11. Google Books Data
 12. Data Analysis
 13. Results
-14. License
 
 ### Introduction
 ##### This project focuses on fetching book data from Open Library and Google Books APIs, performing data processing and analysis, and deriving insights from the collected datasets.
@@ -52,7 +51,4 @@
 
 #### Results
 - The visualizations and summaries of the results obtained from the data we collected can be used for recommendation system for a limited purposes, also the results we have obtained is based on limited data obtained from different API's and merged them together into one.
-
-#### License
-This project is licensed under the MIT License.
 
